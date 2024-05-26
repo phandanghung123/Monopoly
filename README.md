@@ -1,4 +1,16 @@
-# Monopoly
+
+# Monopoly project
+
+This project is our practice in OOP. Something we design and customize following member's ideas such as bot, mini-game, chracter, UI,.. , especially mini-game. Although we try to coding too much, there are something wrong in our code. We have to learn more to finish this project.
+
+Beside this fail, we are success in generating a mini-game, which is pirate and crab game from Youtube. Because it is a mini-game, we cut off some features for saving time  
+
+## Acknowledgements
+
+ - Monopoly: https://en.wikipedia.org/wiki/Monopoly_(game)
+ - Creating 2D game tutorial Youtube link(for mini-game): https://www.youtube.com/playlist?list=PL4rzdwizLaxYmltJQRjq18a9gsSyEQQ-0
+
+ ## Design diagram:
 
 Monopoly state diagram
 ![mono-State Diagarm drawio](https://github.com/phandanghung123/Monopoly/assets/130640512/e404a9f1-a28f-4ce0-96b7-95c993e3229c)
@@ -12,3 +24,8 @@ Monopoly Playing state diagram
 ![mono-Playing game drawio](https://github.com/phandanghung123/Monopoly/assets/130640512/5b715a30-27f9-4349-a7ab-836827c50078)
 Monopoly setting
 ![mono-Setting drawio](https://github.com/phandanghung123/Monopoly/assets/130640512/5eb8a728-2c48-4d91-b562-0c6e02c7b755)
+
+
+
+
+
